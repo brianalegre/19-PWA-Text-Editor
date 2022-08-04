@@ -16,9 +16,8 @@
 
 ## Application Preview
 <p align="left">
-    <img alt="" src="">
+    <img alt="JATE" src="./assets/images/Preview.png">
 </p>
-
 
 ## Installation
 - Copy the repository to your system
@@ -32,7 +31,7 @@
 -   Github Repository:
     - https://github.com/brianalegre/19-PWA-Text-Editor
 -   Heroku Deployed:
-    - TBD
+    - https://alegre-jate.herokuapp.com/
 
 ## Criteria
 - Uses IndexedDB to create an object store and includes both GET and PUT methods
